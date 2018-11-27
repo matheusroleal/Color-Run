@@ -12,9 +12,9 @@ color becomes more challenging. For example: to reach the green color the user m
 simultaneously the blue and yellow color.
 
 ## Creators
-Ariele Pereira Mendonça 
-Felipe de Souza Mattos 
-Fernanda de Almeida Castro 
-Joana Santos Recalde Rocha 
-Matheus Rodrigues de Oliveira Leal 
-Raphael Bandeira de Britto 
+- Ariele Pereira Mendonça 
+- Felipe de Souza Mattos 
+- Fernanda de Almeida Castro 
+- Joana Santos Recalde Rocha 
+- Matheus Rodrigues de Oliveira Leal 
+- Raphael Bandeira de Britto 
